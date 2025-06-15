@@ -1,0 +1,396 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "se-scripting/1.0.0": {
+        "dependencies": {
+          "Sandbox.Common": "1.0.0.0",
+          "Sandbox.Game": "0.1.1.0",
+          "SpaceEngineers.Game": "1.0.0.0",
+          "VRage": "1.0.0.0",
+          "VRage.Game": "1.0.0.0",
+          "VRage.Library": "1.0.0.0",
+          "VRage.Math": "1.0.0.0"
+        },
+        "runtime": {
+          "se-scripting.dll": {}
+        }
+      },
+      "Sandbox.Common/1.0.0.0": {
+        "runtime": {
+          "Sandbox.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Sandbox.Game/0.1.1.0": {
+        "runtime": {
+          "Sandbox.Game.dll": {
+            "assemblyVersion": "0.1.1.0",
+            "fileVersion": "0.1.1.0"
+          }
+        }
+      },
+      "SpaceEngineers.Game/1.0.0.0": {
+        "runtime": {
+          "SpaceEngineers.Game.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VRage/1.0.0.0": {
+        "runtime": {
+          "VRage.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VRage.Game/1.0.0.0": {
+        "runtime": {
+          "VRage.Game.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VRage.Library/1.0.0.0": {
+        "runtime": {
+          "VRage.Library.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VRage.Math/1.0.0.0": {
+        "runtime": {
+          "VRage.Math.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VRage.Input/1.0.0.0": {
+        "runtime": {
+          "VRage.Input.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VRage.Network/1.0.53.0": {
+        "runtime": {
+          "VRage.Network.dll": {
+            "assemblyVersion": "1.0.53.0",
+            "fileVersion": "1.0.53.0"
+          }
+        }
+      },
+      "HavokWrapper/0.1.1.0": {
+        "runtime": {
+          "HavokWrapper.dll": {
+            "assemblyVersion": "0.1.1.0",
+            "fileVersion": "0.1.1.0"
+          }
+        }
+      },
+      "ProtoBuf.Net.Core/1.0.0.0": {
+        "runtime": {
+          "ProtoBuf.Net.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VRage.Render/1.0.0.0": {
+        "runtime": {
+          "VRage.Render.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Sandbox.Graphics/0.1.1.0": {
+        "runtime": {
+          "Sandbox.Graphics.dll": {
+            "assemblyVersion": "0.1.1.0",
+            "fileVersion": "0.1.1.0"
+          }
+        }
+      },
+      "VRage.UserInterface/1.0.0.0": {
+        "runtime": {
+          "VRage.UserInterface.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SpaceEngineers.ObjectBuilders/1.0.0.0": {
+        "runtime": {
+          "SpaceEngineers.ObjectBuilders.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "EmptyKeys.UserInterface/3.2.0.0": {
+        "runtime": {
+          "EmptyKeys.UserInterface.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.0"
+          }
+        }
+      },
+      "EmptyKeys.UserInterface.Core/3.2.0.0": {
+        "runtime": {
+          "EmptyKeys.UserInterface.Core.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.0"
+          }
+        }
+      },
+      "VRage.Render11/1.0.0.0": {
+        "runtime": {
+          "VRage.Render11.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Sandbox.RenderDirect/1.0.0.0": {
+        "runtime": {
+          "Sandbox.RenderDirect.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VRage.NativeWrapper/0.1.1.0": {
+        "runtime": {
+          "VRage.NativeWrapper.dll": {
+            "assemblyVersion": "0.1.1.0",
+            "fileVersion": "0.1.1.0"
+          }
+        }
+      },
+      "RecastDetourWrapper/0.1.1.0": {
+        "runtime": {
+          "RecastDetourWrapper.dll": {
+            "assemblyVersion": "0.1.1.0",
+            "fileVersion": "0.1.1.0"
+          }
+        }
+      },
+      "SixLabors.ImageSharp/1.0.0.0": {
+        "runtime": {
+          "SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SixLabors.Core/1.0.0.0": {
+        "runtime": {
+          "SixLabors.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SharpDX/4.2.0.0": {
+        "runtime": {
+          "SharpDX.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.1.0"
+          }
+        }
+      },
+      "SharpDX.DXGI/4.2.0.0": {
+        "runtime": {
+          "SharpDX.DXGI.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.1.0"
+          }
+        }
+      },
+      "SharpDX.Direct3D11/4.2.0.0": {
+        "runtime": {
+          "SharpDX.Direct3D11.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.1.0"
+          }
+        }
+      },
+      "CppNet/1.0.0.0": {
+        "runtime": {
+          "CppNet.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SharpDX.D3DCompiler/4.2.0.0": {
+        "runtime": {
+          "SharpDX.D3DCompiler.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "se-scripting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sandbox.Common/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sandbox.Game/0.1.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpaceEngineers.Game/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VRage/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VRage.Game/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VRage.Library/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VRage.Math/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VRage.Input/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VRage.Network/1.0.53.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HavokWrapper/0.1.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProtoBuf.Net.Core/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VRage.Render/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sandbox.Graphics/0.1.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VRage.UserInterface/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpaceEngineers.ObjectBuilders/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmptyKeys.UserInterface/3.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmptyKeys.UserInterface.Core/3.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VRage.Render11/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sandbox.RenderDirect/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VRage.NativeWrapper/0.1.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RecastDetourWrapper/0.1.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SixLabors.ImageSharp/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SixLabors.Core/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpDX/4.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpDX.DXGI/4.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpDX.Direct3D11/4.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CppNet/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpDX.D3DCompiler/4.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
