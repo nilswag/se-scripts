@@ -1,1 +1,121 @@
-.vs/*
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2019+/2022+ settings
+.vs/
+.vscode/
+
+# Auto-generated files
+Generated\ Files/
+
+# Backup & crash dumps
+*.bak
+*.tmp
+*.temp
+*.pidb
+*.svclog
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Web Workloads
+node_modules/
+bower_components/
+jspm_packages/
+
+# Azure Pipelines
+.env
+.env.*.local
+
+# Others
+*.dbmdl
+*.pdb
+*.cache
+*.sdf
+*.sqlite
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# JetBrains Rider
+.idea/
+
+# MSTest test results
+TestResults/
+*.trx
+*.vsmdi
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# Build artifacts
+*.dll
+*.exe
+
+# Publish output
+publish/
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored if package restore is enabled
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# T4 outputs
+*.Generated.cs
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Local history for Visual Studio
+.localhistory/
+
+# Coverage results
+*.coverage
+*.coveragexml
+
+# Rider logs
+.idea/
+
+# Other
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Windows image file caches
+*.stackdump
+
+# Folder config file
+.DS_Store
